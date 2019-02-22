@@ -1,0 +1,6 @@
+/home/gregg/IdeaProjects/wallenda/src/test/java/com/greggahill/wallenda/config/EmbeddedRedisTestConfiguration.java
+/home/gregg/IdeaProjects/wallenda/src/test/java/com/greggahill/wallenda/organization/OrganizationServiceTest.java
+/home/gregg/IdeaProjects/wallenda/src/test/java/com/greggahill/wallenda/organization/OrganizationControllerIT.java
+/home/gregg/IdeaProjects/wallenda/src/test/java/com/greggahill/wallenda/organization/OrganizationControllerTest.java
+/home/gregg/IdeaProjects/wallenda/src/test/java/com/greggahill/wallenda/member/MemberControllerIT.java
+/home/gregg/IdeaProjects/wallenda/src/test/java/com/greggahill/wallenda/member/MemberControllerTest.java
