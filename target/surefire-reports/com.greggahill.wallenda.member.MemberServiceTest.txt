@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: com.greggahill.wallenda.member.MemberServiceTest
--------------------------------------------------------------------------------
-Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.035 sec - in com.greggahill.wallenda.member.MemberServiceTest
